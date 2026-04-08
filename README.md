@@ -68,8 +68,3 @@ Resume Analyzer and Job Matcher/
 3. Open the Streamlit UI in your browser
 4. Upload a resume and job description (PDF/TXT or paste text)
 5. View extracted skills, match score, and suggestions for improvement
-
----
-
-## Author
-Shreya Kumari
